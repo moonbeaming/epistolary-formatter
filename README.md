@@ -18,10 +18,10 @@ Jane: Multiple lines said by a character will turn out like this. These lines ar
 John: Cool.
 ```
 Viewing output file in a browser
-insert convo browser image here later
+[Text from both speakers aligned to either left or right of the page](convobrowser.png)
 
 Preview on AO3
-convo result image
+[Text from both speakers aligned to either left or right of the page](convoplatform.png)
 
 Example of output
 
