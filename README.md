@@ -81,3 +81,9 @@ John: Cool.
 </tbody>
 </table>
 ```
+<hr/>
+
+**Notes/design justifications:**
+- This only accepts txt files for ease of processing. The more commonly used .docx extention would require users to install a package.
+- The code uses the depreciated HTML5 attribute 'align' instead of 'text-align' because the platform this code is for only recognises that.
+- User HAS to key in the file extension when typing the input file name because they can then see immediately whether they have the wrong file format.
