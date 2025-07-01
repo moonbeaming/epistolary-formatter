@@ -19,11 +19,11 @@ John: Cool.
 ```
 <br/>**Viewing output file in a browser**
 
-![Text from both speakers aligned to either left or right of the page](img/convobrowser.png)
+![Text from both speakers aligned to either left or right of the page](https://i.postimg.cc/ydJWKtgz/convobrowser.png)
 
 <br/>**Viewing preview on AO3**
 
-![Text from both speakers aligned to either left or right of the page](img/convoplatform.png)
+![Text from both speakers aligned to either left or right of the page](https://i.postimg.cc/RFjhZdKJ/convoplatform.png)
 
 <br/>**Example of output**
 
