@@ -3,7 +3,7 @@
 This program formats an [epistolary](https://en.wikipedia.org/wiki/Epistolary_novel) in a .txt file to a format that is visually similar to two people texting. The file created is a HTML table meant to be compatible for viewing on AO3. This currently only accomodates two speakers, and must follow the format shown in the sample input text. Future plans may include catering to multiple speakers with the speaker's name right above their dialogue
 
 ## How to use:
-1. In Command Prompt, navigate to the folder you downloaded this file and run ``` python format_story.py```.
+1. In Command Prompt, navigate to the folder you downloaded this file and run ``` python main.py```.
 2. When prompted, enter info such as the EXACT name of the file your are trying to format in ```input filename```, the name of the file the program creates in ```output filename```, and the names of the speakers in ```left_speaker``` and ```right_speaker``` (not case sensitive)
 3. Once the program is done running, go to the folder where you downloaded this program. You can see how your formatted text looks by double clicking the created file, or view the code by opening it in with any text editor program you have.
 
@@ -87,3 +87,4 @@ John: Cool.
 - This only accepts txt files for ease of processing. The more commonly used .docx extention would require users to install a package.
 - The code uses the depreciated HTML5 attribute 'align' instead of 'text-align' because the platform this code is for only recognises that.
 - User HAS to key in the file extension when typing the input file name because they can then see immediately whether they have the wrong file format.
+- Work skins on AO3 are an alternative, but they are mainly for more detailed aesthetics and you still have to assign which style applies to which line of text. I just wanted simple text alignment, and I wanted to save time on assigning every single line of text, hence this code.
